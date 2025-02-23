@@ -12,5 +12,3 @@
 # Uncomment a feed source
 # sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
-
-git clone https://github.com/xiaorouji/openwrt-passwall
